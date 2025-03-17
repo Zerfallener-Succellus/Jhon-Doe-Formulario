@@ -120,9 +120,6 @@ Isso garante que qualquer pessoa possa rodar seu sistema rapidamente! 🚀
 
 ---
 
-Aqui está a seção explicando como testar a API no **Postman** ou usando **cURL**:  
-
----
 
 ## 📡 Testando a API com Postman/Insomnia
 
